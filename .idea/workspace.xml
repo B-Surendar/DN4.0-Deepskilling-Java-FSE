@@ -91,11 +91,11 @@
       </method>
     </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="singleton.Main" />
+      <option name="MAIN_CLASS_NAME" value="SingletonPatternExample.Main" />
       <module name="Cognizant" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="singleton.*" />
+          <option name="PATTERN" value="SingletonPatternExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
