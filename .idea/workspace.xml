@@ -6,6 +6,25 @@
   <component name="ChangeListManager">
     <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="design pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_Commerce_Platform_Search_Function/E Commerce Platform search function.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/E_Commerce_Platform_Search_Function/E Commerce Platform search function.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_Commerce_Platform_Search_Function/ProductSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/E_Commerce_Platform_Search_Function/ProductSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/E_Commerce_Platform_Search_Function/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/E_Commerce_Platform_Search_Function/output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/Document.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/DocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/DocumentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/ExcelDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/ExcelDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/ExcelDocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/ExcelDocumentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/PdfDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/PdfDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/PdfDocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/PdfDocumentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/WordDocument.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/WordDocument.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/WordDocumentFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/WordDocumentFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FactoryMethodPatternExample/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/FactoryMethodPatternExample/output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Financial_Forecasting/Financial forecasting.docx" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/Financial_Forecasting/Financial forecasting.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Financial_Forecasting/FinancialForecasting.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/Financial_Forecasting/FinancialForecasting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Financial_Forecasting/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/Financial_Forecasting/output.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPatternExample/Logger.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/SingletonPatternExample/Logger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPatternExample/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/SingletonPatternExample/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingletonPatternExample/output.png" beforeDir="false" afterPath="$PROJECT_DIR$/Week-1 Assignments/SingletonPatternExample/output.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,29 +70,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.E_Commerce_Platform_Search_Function.ProductSearch.executor": "Run",
-    "Application.FactoryMethodPatternExample.Main.executor": "Run",
-    "Application.FinancialForecasting.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.ProductSearch (1).executor": "Run",
-    "Application.ProductSearch (2).executor": "Run",
-    "Application.ProductSearch (3).executor": "Run",
-    "Application.ProductSearch.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/cognizant/6385270-main"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.E_Commerce_Platform_Search_Function.ProductSearch.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FactoryMethodPatternExample.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.FinancialForecasting.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductSearch (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductSearch (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductSearch (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ProductSearch.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/cognizant/6385270-main&quot;
   },
-  "keyToStringList": {
-    "ChangesTree.GroupingKeys": [
-      "module"
+  &quot;keyToStringList&quot;: {
+    &quot;ChangesTree.GroupingKeys&quot;: [
+      &quot;module&quot;
     ]
   }
-}]]></component>
-  <component name="RunManager" selected="Application.FinancialForecasting">
+}</component>
+  <component name="RunManager" selected="Application.SingletonPatternExample.Main">
     <configuration name="E_Commerce_Platform_Search_Function.ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Commerce_Platform_Search_Function.ProductSearch" />
       <module name="Cognizant" />
@@ -100,25 +119,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ProductSearch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FactoryMethodPatternExample.Main" />
       <module name="Cognizant" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="ECommersePlateSearchFunctino.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ProductSearch (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
-      <module name="Cognizant" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="ECommersePlateSearchFunctino.*" />
+          <option name="PATTERN" value="FactoryMethodPatternExample.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -150,17 +156,30 @@
     <configuration name="ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
       <module name="Cognizant" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonPatternExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SingletonPatternExample.Main" />
+      <module name="Cognizant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SingletonPatternExample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SingletonPatternExample.Main" />
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.FinancialForecasting" />
         <item itemvalue="Application.E_Commerce_Platform_Search_Function.ProductSearch" />
         <item itemvalue="Application.ProductSearch" />
-        <item itemvalue="Application.ProductSearch (2)" />
-        <item itemvalue="Application.ProductSearch (1)" />
       </list>
     </recent_temporary>
   </component>
