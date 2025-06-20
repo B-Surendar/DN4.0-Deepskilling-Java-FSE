@@ -16,32 +16,32 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="module-info" />
+        <option value="Class" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "history": [
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;history&quot;: [
     {
-      "state": "OPEN",
-      "author": "B-Surendar"
+      &quot;state&quot;: &quot;OPEN&quot;,
+      &quot;author&quot;: &quot;B-Surendar&quot;
     }
   ],
-  "lastFilter": {
-    "state": "OPEN",
-    "author": "B-Surendar"
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;author&quot;: &quot;B-Surendar&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/B-Surendar/DN4.0-Deepskilling-Java-FSE.git",
-    "accountId": "2c13df51-846e-40b0-aeb4-33e383e7a52d"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/B-Surendar/DN4.0-Deepskilling-Java-FSE.git&quot;,
+    &quot;accountId&quot;: &quot;2c13df51-846e-40b0-aeb4-33e383e7a52d&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 8
 }</component>
@@ -53,13 +53,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.E_Commerce_Platform_Search_Function.ProductSearch.executor": "Run",
     "Application.FactoryMethodPatternExample.Main.executor": "Run",
+    "Application.FinancialForecasting.executor": "Run",
     "Application.Main.executor": "Run",
+    "Application.ProductSearch (1).executor": "Run",
+    "Application.ProductSearch (2).executor": "Run",
+    "Application.ProductSearch (3).executor": "Run",
+    "Application.ProductSearch.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "E:/cognizant/Digital-Nurture-Program-3.0-main/Digital-Nurture-Program-3.0-main"
+    "last_opened_file_path": "E:/cognizant/6385270-main"
   },
   "keyToStringList": {
     "ChangesTree.GroupingKeys": [
@@ -67,13 +73,13 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Application.FactoryMethodPatternExample.Main">
-    <configuration name="FactoryMethodPatternExample.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMethodPatternExample.Main" />
+  <component name="RunManager" selected="Application.FinancialForecasting">
+    <configuration name="E_Commerce_Platform_Search_Function.ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="E_Commerce_Platform_Search_Function.ProductSearch" />
       <module name="Cognizant" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryMethodPatternExample.*" />
+          <option name="PATTERN" value="E_Commerce_Platform_Search_Function.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -81,23 +87,80 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SingletonPatternExample.Main" />
+    <configuration name="FinancialForecasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Financial_Forecasting.FinancialForecasting" />
       <module name="Cognizant" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SingletonPatternExample.*" />
+          <option name="PATTERN" value="Financial_Forecasting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ECommersePlateSearchFunctino.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ECommersePlateSearchFunctino.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECommersePlateSearchFunctino.ProductSearch" />
+      <module name="Cognizant" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.FactoryMethodPatternExample.Main" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.FinancialForecasting" />
+        <item itemvalue="Application.E_Commerce_Platform_Search_Function.ProductSearch" />
+        <item itemvalue="Application.ProductSearch" />
+        <item itemvalue="Application.ProductSearch (2)" />
+        <item itemvalue="Application.ProductSearch (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -134,7 +197,23 @@
       <option name="project" value="LOCAL" />
       <updated>1750266692727</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="design pattern">
+      <option name="closed" value="true" />
+      <created>1750267724073</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1750267724073</updated>
+    </task>
+    <task id="LOCAL-00005" summary="design pattern">
+      <option name="closed" value="true" />
+      <created>1750267732506</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750267732506</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
