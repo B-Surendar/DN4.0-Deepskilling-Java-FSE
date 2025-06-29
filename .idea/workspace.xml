@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="updated  File">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="Pl SQL files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -74,6 +72,11 @@
     ]
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\cognizant\Hands-on Ex\Cognizant\Week-2 Assignments\PL SQL\Table Schema" />
+    </key>
+  </component>
   <component name="RunManager" selected="Application.SingletonPatternExample.Main">
     <configuration name="E_Commerce_Platform_Search_Function.ProductSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="E_Commerce_Platform_Search_Function.ProductSearch" />
@@ -222,12 +225,29 @@
       <option name="project" value="LOCAL" />
       <updated>1750430485383</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Pl SQL files">
+      <option name="closed" value="true" />
+      <created>1751206097812</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1751206097812</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Pl SQL files">
+      <option name="closed" value="true" />
+      <created>1751206285178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1751206285178</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="design pattern" />
     <MESSAGE value="updated  File" />
-    <option name="LAST_COMMIT_MESSAGE" value="updated  File" />
+    <MESSAGE value="Pl SQL files" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pl SQL files" />
   </component>
 </project>
