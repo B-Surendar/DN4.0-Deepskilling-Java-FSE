@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="Pl SQL files" />
+    <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="&#10;Updated week 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -241,13 +243,22 @@
       <option name="project" value="LOCAL" />
       <updated>1751206285178</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="&#10;Updated week 2">
+      <option name="closed" value="true" />
+      <created>1751208411755</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1751208411755</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="design pattern" />
     <MESSAGE value="updated  File" />
     <MESSAGE value="Pl SQL files" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pl SQL files" />
+    <MESSAGE value="&#10;Updated week 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Updated week 2" />
   </component>
 </project>
