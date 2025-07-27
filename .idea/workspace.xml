@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5af6c74f-caf6-43d4-8b47-bb4832f4161c" name="Changes" comment="&#10;Updated week 6">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex1/public/favicon.ico" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex1/public/index.html" beforeDir="false" />
@@ -20,6 +21,8 @@
       <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex1/src/logo.svg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex1/src/reportWebVitals.js" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex1/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Week-6 Assignment/ex3" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -339,7 +342,23 @@
       <option name="project" value="LOCAL" />
       <updated>1753632042263</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="&#10;Updated week 6">
+      <option name="closed" value="true" />
+      <created>1753638182397</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638182397</updated>
+    </task>
+    <task id="LOCAL-00020" summary="&#10;Updated week 6">
+      <option name="closed" value="true" />
+      <created>1753638459588</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1753638459588</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -361,6 +380,7 @@
     <MESSAGE value="&#10;Updated week 3" />
     <MESSAGE value="&#10;Updated week 4" />
     <MESSAGE value="&#10;Updated week 5" />
+    <MESSAGE value="Initialize project using Create React App&#10;Delete Week-6 Assignment directory" />
     <MESSAGE value="&#10;Updated week 6" />
     <option name="LAST_COMMIT_MESSAGE" value="&#10;Updated week 6" />
   </component>
